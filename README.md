@@ -29,6 +29,7 @@ Got a bogus CVE? Please share here!
 |23| [CVE-2023-26735](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-26735) and [CVE-2020-16248](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-16248) | | https://github.com/prometheus/blackbox_exporter/issues/1024#issuecomment-1449145854 |
 |24| [CVE-2023-24068](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-24068) and [CVE-2023-24069](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-24069) | https://github.com/johnjhacking  and also blogged about the severe vulns: https://johnjhacking.com/blog/cve-2023-24068-cve-2023-24069/ |  |
 |25| [CVE-2022-32275](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-32275) and [CVE-2022-32276](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-32276) | https://github.com/BrotherOfJhonny/grafana | https://github.com/grafana/grafana/issues/50336 |
+|26| [CVE-2021-33430](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-33430) | - | https://github.com/numpy/numpy/issues/21713#issuecomment-1152204058 |
 
 ## Why do people do this?
 
