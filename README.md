@@ -30,7 +30,7 @@ Got a bogus CVE? Please share here!
 |24| [CVE-2023-24068](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-24068) and [CVE-2023-24069](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-24069) | https://github.com/johnjhacking  and also blogged about the severe vulns: https://johnjhacking.com/blog/cve-2023-24068-cve-2023-24069/ |  |
 |25| [CVE-2022-32275](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-32275) and [CVE-2022-32276](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-32276) | https://github.com/BrotherOfJhonny/grafana | https://github.com/grafana/grafana/issues/50336 |
 |26| [CVE-2021-33430](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-33430) | - | https://github.com/numpy/numpy/issues/21713#issuecomment-1152204058 |
-|27| [CVE-2024-23080](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-23080) | [LLMISP](https://github.com/LLMISP/LLMISP/issues/1) | https://github.com/JodaOrg/joda-time/commit/4a1402a47cab4636bf4c73d42a62bfa80c1535ca#diff-457dbda9d8c4b5152ba13997c3266a1df6508a850065771a7f0b764ea9375f60R17 |
+|27| [CVE-2024-23080](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-23080) | [LLMISP](https://github.com/LLMISP/LLMISP/issues/1), [LLM4IG](https://gist.github.com/llm4ig) | https://github.com/JodaOrg/joda-time/commit/4a1402a47cab4636bf4c73d42a62bfa80c1535ca#diff-457dbda9d8c4b5152ba13997c3266a1df6508a850065771a7f0b764ea9375f60R17 |
 
 ## Why do people do this?
 
