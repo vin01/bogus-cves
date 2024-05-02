@@ -63,3 +63,4 @@ Mostly, this process works well, and researchers get in touch with maintainers, 
 - https://daniel.haxx.se/blog/2023/09/05/bogus-cve-follow-ups/
 - https://keepassxc.org/blog/2023-06-20-cve-202335866/
 - https://devblogs.microsoft.com/oldnewthing/20221004-00/?p=107246
+- https://hackaday.com/2023/07/07/this-week-in-security-bogus-cves-bogus-pocs-and-maybe-a-bogus-breach/
